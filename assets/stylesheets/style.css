@@ -220,9 +220,6 @@ border-radius: 5px;
 	border-bottom: 2px solid #888;
 	 outline: none;
 }
-
-
-
 .form-btn{
 	background-color: #02A581;
 	margin-top: 2.5rem;
@@ -245,7 +242,8 @@ background-color: #11211d;
 }
 
 .table{
-	margin: 2.5rem 0;
+	margin: 2.5rem 1rem;
+	
 }
 
 .main-table{
